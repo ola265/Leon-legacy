@@ -5,10 +5,7 @@
 
 **Support for Leon was cut off and was left unmaintained for over a year.**
 **This repository has deprecated.**
-**Leon is now back and compatible with the latest versions of WhatsApp after a long break.**
-**I sincerely apologize for that sudden break caused for Leon.**
-**I'm glad to write that Leon is again available for use at [TOXIC-DEVIL/Leon](https://github.com/TOXIC-DEVIL/Leon).**
-**Thank you for your support. I look forward to your support as usual!**
+**Thank you for your support!**
 
 ## ⚙️ Setup ⚙️
 
