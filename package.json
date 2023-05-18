@@ -1,5 +1,5 @@
 {
-  "name": "Leon",
+  "name": "Virus",
   "version": "1.0.4",
   "description": "A Simple WhatsApp Bot.",
   "main": "./Leon/bot.js",
@@ -16,7 +16,7 @@
     "leon",
     "whatsalexa"
   ],
-  "developer": "TOXIC-DEVIL",
+  "developer": "PARK-JI-SANG",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TOXIC-DEVIL/Leon/issues"
