@@ -1,9 +1,9 @@
 {
-    "name": "Leon",
-    "description": "A simple WhatsApp bot.",
+    "name": "PARK-JI-SANG BOT",
+    "description": "A simple WhatsApp bot created by VIRUS [PARK-JI-SANG].",
     "logo": "https://i.ibb.co/d7DLjJZ/tdtod.jpg",
     "keywords": ["whatsapp", "simi", "Leon", "Bot", "bot", "api", "ai"],
-    "repository": "https://github.com/TOXIC-DEVIL/Leon",
+    "repository": "https://github.com/ola265",
     "website":   "https://api-toxic-devil-production.up.railway.app/",
     "success_url": "https://api-toxic-devil-production.up.railway.app/",
     "stack": "container",
@@ -34,12 +34,12 @@
         "FULL_ACO": {
             "description": "It enables aco ai chatbot. The chatbot will start working if someone mention you or reply to any message sent by you/bot.",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "CHAT_MODE": {
             "description": "If you type false, the bot will works in both group and private chats. Else if you type 'pc', the bot will only work in private chats. Else if you type 'gc', the bot will only works in group chats.",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "ANTI_SPAM": {
             "description": "It automatically detects whether the message is spamming and removes them if they.",
@@ -74,7 +74,7 @@
         "OWNER_NAME": {
             "description": "Enter the owner name, You must enter your name ( This name will be shown on some commands )",
             "required": false,
-            "value": "TOXIC DEVIL"
+            "value": "PARK-JISANG(VIRUS)"
         },
         "AUTO_BIO": {
             "description": "Set true for auto date, time in biography.",
@@ -84,7 +84,7 @@
         "OWNER_NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "918595156408"
+            "value": "2348095739078"
         },
         "SEND_READ": {
             "description": "The bot reads the incoming messages ( only commands sent by others so privacy is not breaking there ).",
